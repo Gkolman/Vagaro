@@ -1,8 +1,9 @@
-Look look up information on conutries provided by the public [Trevor Blades countires GraphQl](https://countries.trevorblades.com/graphql)
+## Country flag searcher
+- Look look up information on countries provided by the public [Trevor Blades countires GraphQl API](https://countries.trevorblades.com/graphql)
 
 ### Getting Started
 
-First, run the development server:
+- First, run the development server:
 
 ```bash
 npm run dev
@@ -12,4 +13,4 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000/dark) and learn something!
+- Open [http://localhost:3000](http://localhost:3000/dark) and learn something!
